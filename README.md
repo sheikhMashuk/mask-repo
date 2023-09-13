@@ -4,6 +4,10 @@ This is a demo repository to learn how git works!
 
 Ok umm deleting some lines here.
 
+## Info
+
+I am Sheikh Mashuk.
+
 ## Local installation
 
 this line is edited locally!
